@@ -1,6 +1,8 @@
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
+by Ilhem Chikouche & Mathilde Briend
+
 ### Set up instructions
 
 1. Fork this repo
